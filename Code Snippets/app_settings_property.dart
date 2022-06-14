@@ -1,12 +1,12 @@
 // ================= App Setting Property ===========================
-/// This is an example of clean code and single purpose classes with
-/// dependencies declared from the constructor.
-/// `AppSettings` & `AppSettingsProperty` classes where created to simplify
-/// changing app setting values that are stored in a database.
-///
-/// Note:
-/// As this is all in one dart file, the benefits of using private variables
-/// cannot be seen.
+// This is an example of clean code and single purpose classes with
+// dependencies declared from the constructor.
+// `AppSettings` & `AppSettingsProperty` classes where created to simplify
+// changing app setting values that are stored in a database.
+//
+// Note:
+// As this is all in one dart file, the benefits of using private variables
+// cannot be seen.
 
 // ================= Supported Class Snippets =======================
 
